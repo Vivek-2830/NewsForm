@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "publistat-news-form-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/publistatNewsForm/PublistatNewsFormWebPart.js",
+          "manifest": "./src/webparts/publistatNewsForm/PublistatNewsFormWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PublistatNewsFormWebPartStrings": "lib/webparts/publistatNewsForm/loc/{locale}.js"
+  }
+}

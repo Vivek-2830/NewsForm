@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "news-form",
+    "libraryId": "a553a2d9-78fa-4535-bf64-2e3a5728aff4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "news-form",
+    "solutionShortDescription": "news-form description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,122 @@
+.publistatNewsForm .d-flex-header{
+    display: flex;
+    align-items: center;
+    margin: 28px 23px 16px 2px;;
+}
+
+
+.Title{
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
+    margin: 1px;
+    color: #006eb5;
+}
+
+.News-Add{
+    text-align: right;
+    top: 10px;
+    display: block;
+}   
+
+.NewsForm { 
+    margin: 5px;
+    margin-bottom: 15px;
+}
+/* 
+.News-Title{
+    display: grid;
+    margin-left: 20PX;
+} */
+
+.News-Edit {
+    padding: 0;
+    display: grid;
+    margin: -2px;
+    margin-left: -19px;
+}
+
+.News-Delete {
+    margin: -2px;
+    margin-left: -3px;
+    margin-bottom: 11px;
+}
+
+.Add-News {
+    display: flex;
+}
+
+.Edit-News {
+    display: flex;
+}
+
+.Submit-News {
+    padding: 5px;
+    display: flex;
+    margin: 8px;
+    margin-left: -15px;
+}
+
+.Cancel-Add-News {
+    display: flex;
+    padding: 13px;
+    margin-left: -11px;
+}
+
+.Update-News {
+    padding: 2px;
+    display: flex;
+    margin: 13px;
+    margin-left: -13px;
+}
+
+.Cancel-Update-News{
+    display: flex;
+    padding: 15px;
+    margin-left: -16px;
+} 
+
+/* .areatitle{
+    margin-left: 50px;
+    font-size: 20px;
+} */
+
+.Owner-Details{
+    display: flex;
+    font-size: 15px;
+    font-weight: 20px;
+    margin: 4px;
+    margin-left: 55px;
+    /* margin-right: 10px; */
+}
+
+.Owner-Groups{
+    color: #220c93;
+    font-size: 15px;
+    margin-left: 50px;
+    padding: 15px;
+    padding-bottom: 19px;
+} 
+
+.Owner-Details img{
+   padding: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+   
+}   
+
+.Owner-Member {
+    padding: 5px;
+    margin: 5px;
+    margin-left: -2px;
+    margin-top: 7px;
+    /*     margin: 13px;
+    margin-left: 65px;
+    margin-top: -35px; */
+    /* margin-bottom: 15px; */
+}
+
+.Owner-Member p{
+    margin: 5px
+}
